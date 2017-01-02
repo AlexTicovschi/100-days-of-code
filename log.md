@@ -8,3 +8,12 @@
 **Thoughts:** Learned how to style font awesome icons without the use of <span> or <i>.
 
 **Link to work:** [Todo List App](https://tod-o-ay.gomix.me/)
+
+### Day 2: January 2, 2017
+##### [HTML, CSS, JAVASCRIPT] Todo List
+
+**Today's Progress**: Trying to add the possibility of caching the user's todolist so when the user refreshes or comes back to the app, his/her todolist is still there.
+
+**Thoughts:** Struggling with this local storage thing. I'm able to set the object in cache but not able to retrieve it yet.
+
+**Link to work:** [Todo List App](https://tod-o-ay.gomix.me/)
