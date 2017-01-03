@@ -17,3 +17,9 @@
 **Thoughts:** Struggling with this local storage thing. I'm able to set the object in cache but not able to retrieve it yet.
 
 **Link to work:** [Todo List App](https://tod-o-ay.gomix.me/)
+
+### Day 3: January 3, 2017
+##### [JAVA, ANDROID] Activities and layouts
+
+**Today's Progress**: Studying activities and layouts.
+
