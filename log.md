@@ -5,7 +5,7 @@
 
 **Today's Progress**: Added CSS and customized some functions.
 
-**Thoughts:** Learned how to style font awesome icons without the use of <span> or <i>.
+**Thoughts:** Learned how to style font awesome icons without the use of "span" and "i".
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
 
@@ -22,4 +22,15 @@
 ##### [JAVA, ANDROID] Activities and layouts
 
 **Today's Progress**: Studying activities and layouts.
+
+### Day 4: January 4, 2017
+##### [JAVA, ANDROID] Activities and layouts
+
+**Today's Progress**: Created a layout with 4 buttons.
+* Open Activity - opens another screen
+* Open URL - opens an URL
+* Open Dialer - opens the dialer with a fixed number
+* Edit Text + Open Activity - if the user provides text and clicks on the button, the user will be redirected to a screen with the input.
+
+**Thoughts:** Really enjoying the creation of layouts for Android! :D
 
