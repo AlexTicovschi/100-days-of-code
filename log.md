@@ -37,4 +37,4 @@
 ### Day 5: January 5, 2017
 ##### [JAVA, ANDROID] Parcelable interface and Runtime permissions
 
-**Today's Progress**: Studying Parcelable interface and Runtime permissions.
+**Today's Progress**: Studying Parcelable interface and Runtime permissions: how to make phone calls and allow access
