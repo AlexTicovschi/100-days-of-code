@@ -34,3 +34,7 @@
 
 **Thoughts:** Really enjoying the creation of layouts for Android! :D
 
+### Day 5: January 5, 2017
+##### [JAVA, ANDROID] Parcelable interface and Runtime permissions
+
+**Today's Progress**: Studying Parcelable interface and Runtime permissions.
