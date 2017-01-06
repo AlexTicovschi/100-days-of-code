@@ -38,3 +38,12 @@
 ##### [JAVA, ANDROID] Parcelable interface and Runtime permissions
 
 **Today's Progress**: Studying Parcelable interface and Runtime permissions: how to make phone calls and allow access
+
+### Day 6: January 6, 2017
+##### [HTML, CSS, JAVASCRIPT] Todo List and Free Code Camp
+
+**Today's Progress**: *Still* Trying to add the possibility of caching the user's todolist so when the user refreshes or comes back to the app, his/her todolist is still there. Also, progressing on the HTML5/CSS3 section on FreeCodeCamp.
+
+**Thoughts:**  *Still* Struggling with this local storage thing. I'm able to set the object in cache but not able to retrieve it yet. While I'm doing the FCC HTML5/CSS3 I realize how comfortable I am with this and remember when it used to be a struggle.
+
+**Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
