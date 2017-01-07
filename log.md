@@ -47,3 +47,12 @@
 **Thoughts:**  *Still* Struggling with this local storage thing. I'm able to set the object in cache but not able to retrieve it yet. While I'm doing the FCC HTML5/CSS3 I realize how comfortable I am with this and remember when it used to be a struggle.
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
+
+### Day 7: January 7, 2017
+##### [HTML, CSS, JAVASCRIPT] Todo List
+
+**Today's Progress**: Finally able to keep the list in memory!! The user can now have his/her todolist in storage/cache. Also managed to correct and clean my code in an effective way.
+
+**Thoughts:**  Some issues to solve still but I'm confident I'll get there!
+
+**Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
