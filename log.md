@@ -56,3 +56,10 @@
 **Thoughts:**  Some issues to solve still but I'm confident I'll get there!
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
+
+### Day 8: January 8, 2017
+##### [JAVA, ANDROID] ListView and Adapters
+
+**Today's Progress**: Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
+
+**Thoughts:** Practice makes perfect. 
