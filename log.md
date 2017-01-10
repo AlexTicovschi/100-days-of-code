@@ -70,3 +70,10 @@
 **Today's Progress**: [Continuation] Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
 
 **Thoughts:** Still not done...
+
+### Day 10: January 10, 2017
+##### [JAVA, ANDROID] ListView and Adapters
+
+**Today's Progress**: [Continuation] Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
+
+**Thoughts:** Struggling on where elements should be placed, still not really clear.
