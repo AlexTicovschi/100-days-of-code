@@ -78,8 +78,14 @@
 
 **Thoughts:** Struggling on where elements should be placed, still not really clear.
 
-### Day 11: January 10, 2017
+### Day 11: January 11, 2017
 ##### [JAVA, ANDROID] setVisibility
 
 **Today's Progress**: Applying conditions for views: if a certain action is true, a view disappears. 
+
+### Day 12: January 12, 2017
+##### [JAVA, ANDROID & CSS] BroadcastReceiver and Flexbox
+
+**Today's Progress**: Studied BroadcastReceiver for Android and tested Flexbox (finally!). 
+
 
