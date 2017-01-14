@@ -92,3 +92,11 @@
 ######## [CSS] Flexbox and Stylus
 
 **Today's Progress**: Getting to know Flexbox with a few exercises using Stylus as a CSS Preprocessor.
+
+
+#### Day 14: January 14, 2017
+######## [CSS] Flexbox and Stylus
+
+**Today's Progress**: Made a navbar with Flexbox, using Stylus as a CSS Preprocessor.
+
+**Link to work:** [Navbar with Flexbox] (http://codepen.io/shvvffle/full/NdNgQv/)
