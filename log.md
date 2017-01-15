@@ -100,3 +100,8 @@
 **Today's Progress**: Made a navbar with Flexbox, using Stylus as a CSS Preprocessor.
 
 **Link to work:** [Navbar with Flexbox] (http://codepen.io/shvvffle/full/NdNgQv/)
+
+#### Day 15: January 15, 2017
+######## [JAVA, ANDROID] Download image with URL
+
+**Today's Progress**: Insert an URL with a JPG or PNG and download the image with a button.
