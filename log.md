@@ -105,3 +105,11 @@
 ######## [JAVA, ANDROID] Download image with URL
 
 **Today's Progress**: Insert an URL with a JPG or PNG and download the image with a button.
+
+
+#### Day 16: January 16, 2017
+######## [JAVASCRIPT] Todo List
+
+**Today's Progress**: Crashing some bugs on the app!
+
+**Link to work:** [Todo List App] (https://shvvffle.github.io/tod-o-ay/)
