@@ -113,3 +113,9 @@
 **Today's Progress**: Crashing some bugs on the app!
 
 **Link to work:** [Todo List App] (https://shvvffle.github.io/tod-o-ay/)
+
+
+#### Day 17: January 17, 2017
+######## [JAVA, ANDROID] IntentService vs Async Task
+
+**Today's Progress**: Studying and running some tests.
