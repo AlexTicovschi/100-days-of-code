@@ -119,3 +119,10 @@
 ######## [JAVA, ANDROID] IntentService vs Async Task
 
 **Today's Progress**: Studying and running some tests.
+
+
+#### Day 18: January 18, 2017
+######## [HTML, CSS, JAVASCRIPT] Minimalist contact landing page
+
+**Today's Progress**: Started a landing page: minimalist contact/social page for myself.
+
