@@ -126,3 +126,8 @@
 
 **Today's Progress**: Started a landing page: minimalist contact/social page for myself.
 
+
+#### Day 19: January 19, 2017
+######## [JAVA, ANDROID] Sugar ORM
+
+**Today's Progress**: Studying Sugar ORM and how to use it.
