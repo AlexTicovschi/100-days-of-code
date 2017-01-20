@@ -131,3 +131,8 @@
 ######## [JAVA, ANDROID] Sugar ORM
 
 **Today's Progress**: Studying Sugar ORM and how to use it.
+
+#### Day 20: January 20, 2017
+######## [HTML, CSS, JAVASCRIPT] Building a simple shopping bag functionality for an ecommerce application
+
+**Today's Progress**: Structured the project and dependencies. 
