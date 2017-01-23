@@ -150,3 +150,9 @@
 
 **Today's Progress**: Continuation
 
+
+#### Day 23: January 23, 2017
+######## [JAVASCRIPT, JAVA] Studying Java for Android for a school project. Starting the 30 day Vanilla JS Challenge.
+
+**Today's Progress**: See above ^^
+
