@@ -156,3 +156,8 @@
 
 **Today's Progress**: See above ^^
 
+
+#### Day 24: January 24, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Structured the project and the needs
