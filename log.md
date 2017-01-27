@@ -167,3 +167,13 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Preparation of some classes to retrieve data from the API
+
+#### Day 26: January 26, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Creation of layout and AsyncTasks
+
+#### Day 27: January 27, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Creation of layout and AsyncTasks (continuation)
