@@ -177,3 +177,13 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Creation of layout and AsyncTasks (continuation)
+
+#### Day 28: January 28, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Getting server response, creation of various activities
+
+#### Day 29: January 29, 2017
+######## [JAVA, ANDROID] School project - Movie App development | [HTML, CSS, JAVASCRIPT] Minimalist contact landing page
+
+**Today's Progress**: Getting server response, creation of various activities (continuation) | Finished my contact landing page
