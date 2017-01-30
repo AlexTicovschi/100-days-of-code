@@ -9,6 +9,7 @@
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
 
+
 #### Day 2: January 2, 2017
 ######## [HTML, CSS, JAVASCRIPT] Todo List
 
@@ -18,10 +19,12 @@
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
 
+
 #### Day 3: January 3, 2017
 ######## [JAVA, ANDROID] Activities and layouts
 
 **Today's Progress**: Studying activities and layouts.
+
 
 #### Day 4: January 4, 2017
 ######## [JAVA, ANDROID] Activities and layouts
@@ -34,10 +37,12 @@
 
 **Thoughts:** Really enjoying the creation of layouts for Android! :D
 
+
 #### Day 5: January 5, 2017
 ######## [JAVA, ANDROID] Parcelable interface and Runtime permissions
 
 **Today's Progress**: Studying Parcelable interface and Runtime permissions: how to make phone calls and allow access
+
 
 #### Day 6: January 6, 2017
 ######## [HTML, CSS, JAVASCRIPT] Todo List and Free Code Camp
@@ -48,6 +53,7 @@
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
 
+
 #### Day 7: January 7, 2017
 ######## [HTML, CSS, JAVASCRIPT] Todo List
 
@@ -57,12 +63,14 @@
 
 **Link to work:** [Todo List App] (https://tod-o-ay.gomix.me/)
 
+
 #### Day 8: January 8, 2017
 ######## [JAVA, ANDROID] ListView and Adapters
 
 **Today's Progress**: Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
 
 **Thoughts:** Practice makes perfect. 
+
 
 #### Day 9: January 9, 2017
 ######## [JAVA, ANDROID] ListView and Adapters
@@ -71,6 +79,7 @@
 
 **Thoughts:** Still not done...
 
+
 #### Day 10: January 10, 2017
 ######## [JAVA, ANDROID] ListView and Adapters
 
@@ -78,15 +87,18 @@
 
 **Thoughts:** Struggling on where elements should be placed, still not really clear.
 
+
 #### Day 11: January 11, 2017
 ######## [JAVA, ANDROID] setVisibility
 
 **Today's Progress**: Applying conditions for views: if a certain action is true, a view disappears. 
 
+
 #### Day 12: January 12, 2017
 ######## [JAVA, ANDROID & CSS] BroadcastReceiver and Flexbox
 
 **Today's Progress**: Studied BroadcastReceiver for Android and tested Flexbox (finally!). 
+
 
 #### Day 13: January 13, 2017
 ######## [CSS] Flexbox and Stylus
@@ -100,6 +112,7 @@
 **Today's Progress**: Made a navbar with Flexbox, using Stylus as a CSS Preprocessor.
 
 **Link to work:** [Navbar with Flexbox] (http://codepen.io/shvvffle/full/NdNgQv/)
+
 
 #### Day 15: January 15, 2017
 ######## [JAVA, ANDROID] Download image with URL
@@ -168,22 +181,32 @@
 
 **Today's Progress**: Preparation of some classes to retrieve data from the API
 
+
 #### Day 26: January 26, 2017
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Creation of layout and AsyncTasks
+
 
 #### Day 27: January 27, 2017
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Creation of layout and AsyncTasks (continuation)
 
+
 #### Day 28: January 28, 2017
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Getting server response, creation of various activities
 
+
 #### Day 29: January 29, 2017
 ######## [JAVA, ANDROID] School project - Movie App development | [HTML, CSS, JAVASCRIPT] Minimalist contact landing page
 
 **Today's Progress**: Getting server response, creation of various activities (continuation) | Finished my contact landing page
+
+
+#### Day 30: January 30, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Getting server response, creation of various activities (continuation)
