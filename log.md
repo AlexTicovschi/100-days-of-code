@@ -210,3 +210,9 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Getting server response, creation of various activities (continuation)
+
+
+#### Day 31: January 31, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Display of latest movies playing, supporting 2 languages (english and portuguese)
