@@ -216,3 +216,9 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Display of latest movies playing, supporting 2 languages (english and portuguese)
+
+
+#### Day 32: February 1, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Get a detailed view of the movie upon click
