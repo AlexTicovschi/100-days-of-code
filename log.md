@@ -222,3 +222,9 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Get a detailed view of the movie upon click
+
+
+#### Day 33: February 2, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Upon click on a movie, get the detail of the movie: poster, title and description on both languages - EN and PT
