@@ -240,3 +240,15 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Studying how to get the movie search functionality going.
+
+
+#### Day 36: February 5, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Search functionality development start. Sharing movie details.
+
+
+#### Day 37: February 6, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Search functionality development end.
