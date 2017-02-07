@@ -252,3 +252,9 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Search functionality development end.
+
+
+#### Day 38: February 7, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Cleaned the code and applied more efficient methods to call the services from the API. The user can now see and share the vote count of a movie.
