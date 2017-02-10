@@ -258,3 +258,21 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Cleaned the code and applied more efficient methods to call the services from the API. The user can now see and share the vote count of a movie.
+
+
+#### Day 39: February 8, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Continuation. Small code improvements. 
+
+
+#### Day 40: February 9, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Continuation. Small code improvements. Start new functionalites - get random movie.
+
+
+#### Day 41: February 10, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Continuation, new functionality in place: get top rated movies. Code cleanup, bugs fixed.
