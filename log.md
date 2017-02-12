@@ -276,3 +276,9 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Continuation, new functionality in place: get top rated movies. Code cleanup, bugs fixed.
+
+
+#### Day 42: February 11, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Layout changes and redesign of the whole app.
