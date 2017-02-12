@@ -325,3 +325,10 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Layout changes and redesign of the whole app.
+
+<hr>
+
+#### Day 43: February 12, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Continuation of the whole layout of the app + splash screen added.
