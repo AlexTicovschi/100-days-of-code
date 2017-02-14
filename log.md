@@ -339,3 +339,9 @@
 ######## [JAVA, ANDROID] School project - Movie App development
 
 **Today's Progress**: Searchview implementation, layout amendments. 
+
+<hr>
+
+#### Day 45: February 14, 2017
+######## [ANSI-C] Exercises
+
