@@ -345,3 +345,12 @@
 #### Day 45: February 14, 2017
 ######## [ANSI-C] Exercises
 
+<hr>
+
+#### Day 46: February 15, 2017
+######## [JAVA, ANDROID] School project - Movie App development
+
+**Today's Progress**: Package and classes name consistency. Bug tracking and fixing. Documentation report.
+
+
+
