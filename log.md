@@ -353,4 +353,7 @@
 **Today's Progress**: Package and classes name consistency. Bug tracking and fixing. Documentation report.
 
 
+#### Day 47: February 16, 2017
+######## [ANSI-C] Exercises
 
+<hr>
