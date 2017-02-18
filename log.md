@@ -357,3 +357,13 @@
 #### Day 47: February 16, 2017
 ######## [ANSI-C] Exercises
 
+<hr>
+
+#### Day 48: February 17, 2017
+######## [JAVASCRIPT, jQUERY, AJAX] API exercises
+
+<hr>
+
+#### Day 49: February 18, 2017
+######## [JAVASCRIPT, jQUERY, AJAX] API exercises
+
