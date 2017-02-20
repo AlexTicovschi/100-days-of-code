@@ -367,3 +367,13 @@
 #### Day 49: February 18, 2017
 ######## [JAVASCRIPT, jQUERY, AJAX] API exercises
 
+<hr>
+
+#### Day 50: February 19, 2017
+######## [JAVASCRIPT, jQUERY, AJAX] API exercises
+
+<hr>
+
+#### Day 51: February 20, 2017
+######## [FRONT-END, JAVA & ANDROID, C] A bit of everything exercise wise
+
