@@ -377,3 +377,13 @@
 #### Day 51: February 20, 2017
 ######## [FRONT-END, JAVA & ANDROID, C] A bit of everything exercise wise
 
+<hr>
+
+#### Day 52: February 21, 2017
+######## [FRONT-END, JAVA & ANDROID, C] A bit of everything exercise wise
+
+<hr>
+
+#### Day 53: February 22, 2017
+######## JAVA & ANDROID, C] UX improvements for my Android App and C exercises for school.
+
