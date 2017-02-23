@@ -387,3 +387,9 @@
 #### Day 53: February 22, 2017
 ######## JAVA & ANDROID, C] UX improvements for my Android App and C exercises for school.
 
+<hr>
+
+#### Day 54: February 23, 2017
+######## JAVASCRIPT, C] Started the second JS challenge from Wes Bos and made some C exercises at school.
+
+
