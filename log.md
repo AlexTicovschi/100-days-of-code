@@ -394,12 +394,7 @@
 
 <hr>
 
-#### Day 55: February 24, 2017
+#### Day 55 to 57: February 24 to 27 2017
 ######## FRONT-END] UX/UI upload functionality. Based on filename, allocate the file in a respective section
 
 <hr>
-
-#### Day 56: February 25, 2017
-######## FRONT-END] UX/UI upload functionality. Based on filename, allocate the file in a respective section
-
-
