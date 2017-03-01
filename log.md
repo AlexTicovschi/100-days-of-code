@@ -394,7 +394,12 @@
 
 <hr>
 
-#### Day 55 to 57: February 24 to 27 2017
+#### Day 55 to 59: February 24 to 28 2017
 ######## FRONT-END] UX/UI upload functionality. Based on filename, allocate the file in a respective section
+
+<hr>
+
+#### Day 60: March 1 2017
+######## JAVASCRIPT, C] Continuation of the second JS challenge from Wes Bos
 
 <hr>
