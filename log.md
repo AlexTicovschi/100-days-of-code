@@ -400,6 +400,21 @@
 <hr>
 
 #### Day 60: March 1 2017
-######## JAVASCRIPT, C] Continuation of the second JS challenge from Wes Bos
+######## JAVASCRIPT] Continuation of the second JS challenge from Wes Bos
 
 <hr>
+
+#### Day 61: March 2 2017
+######## JAVASCRIPT] End of the second JS challenge from Wes Bos
+
+Link: http://codepen.io/shvvffle/pen/jBOVwj 
+
+<hr>
+
+#### Day 62: March 3 2017
+######## JAVASCRIPT] Start of the third JS challenge from Wes Bos
+
+Link: http://codepen.io/shvvffle/pen/RpRbGO
+
+<hr>
+
