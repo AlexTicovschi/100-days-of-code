@@ -418,3 +418,12 @@ Link: http://codepen.io/shvvffle/pen/RpRbGO
 
 <hr>
 
+#### Day 63 and 64: March 4 to 5 2017
+######## JAVASCRIPT] Continuation and end of the third JS challenge from Wes Bos
+
+Link: http://codepen.io/shvvffle/pen/RpRbGO
+
+<hr>
+
+#### Day 65: March 6 2017
+######## FRONT-END] Exercises
