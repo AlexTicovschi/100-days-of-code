@@ -427,3 +427,8 @@ Link: http://codepen.io/shvvffle/pen/RpRbGO
 
 #### Day 65: March 6 2017
 ######## FRONT-END] Exercises
+
+<hr>
+
+#### Day 66 to 71: March 12 2017
+######## FRONT-END, JAVASCRIPT] Javascript exercises
