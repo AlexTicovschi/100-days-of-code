@@ -432,3 +432,10 @@ Link: http://codepen.io/shvvffle/pen/RpRbGO
 
 #### Day 66 to 71: March 12 2017
 ######## FRONT-END, JAVASCRIPT, OBJECTIVE-C] Javascript exercises, started learning and practicing Objective-C.
+
+<hr>
+
+#### Day 72: March 13 2017
+######## FRONT-END, JAVASCRIPT] Finished a game with Javascript, mentored by Jonas Schmedtmann.
+
+Link: https://github.com/shvvffle/pig-game
