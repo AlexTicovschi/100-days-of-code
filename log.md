@@ -444,3 +444,8 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 73: March 14 2017
 ######## OBJECTIVE-C] Contact program for console.
+
+<hr>
+
+#### Day 74: March 15 2017
+######## FRONT-END] Sharepoint team page.
