@@ -449,3 +449,14 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 74: March 15 2017
 ######## FRONT-END] Sharepoint team page.
+
+<hr>
+
+#### Day 75: March 16 2017
+######## OBJECTIVE-C] Console program that enables the user to create a random item: name, serial number and a price. Methods available are: add/remove new random item, store items in an array and count, calculate total price of all items.
+
+<hr>
+
+#### Day 76: March 17 2017
+######## OBJECTIVE-C] Objective-C exercises.
+
