@@ -464,3 +464,8 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 77: March 18 2017
 ######## OBJECTIVE-C] Continuation of console program from day 75.
+
+<hr>
+
+#### Day 78: March 19 2017
+######## OBJECTIVE-C] Continuation of console program from day 75 and 76.
