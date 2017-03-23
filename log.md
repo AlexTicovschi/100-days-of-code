@@ -385,97 +385,97 @@
 <hr>
 
 #### Day 53: February 22, 2017
-###### JAVA & ANDROID, C] UX improvements for my Android App and C exercises for school.
+###### [JAVA & ANDROID, C] UX improvements for my Android App and C exercises for school.
 
 <hr>
 
 #### Day 54: February 23, 2017
-###### JAVASCRIPT, C] Started the second JS challenge from Wes Bos and made some C exercises at school.
+###### [JAVASCRIPT, C] Started the second JS challenge from Wes Bos and made some C exercises at school.
 
 <hr>
 
 #### Day 55 to 59: February 24 to 28 2017
-###### FRONT-END] UX/UI upload functionality. Based on filename, allocate the file in a respective section
+###### [FRONT-END] UX/UI upload functionality. Based on filename, allocate the file in a respective section
 
 <hr>
 
 #### Day 60: March 1 2017
-###### JAVASCRIPT] Continuation of the second JS challenge from Wes Bos
+###### [JAVASCRIPT] Continuation of the second JS challenge from Wes Bos
 
 <hr>
 
 #### Day 61: March 2 2017
-###### JAVASCRIPT] End of the second JS challenge from Wes Bos
+###### [JAVASCRIPT] End of the second JS challenge from Wes Bos
 
 Link: http://codepen.io/shvvffle/pen/jBOVwj 
 
 <hr>
 
 #### Day 62: March 3 2017
-###### JAVASCRIPT] Start of the third JS challenge from Wes Bos
+###### [JAVASCRIPT] Start of the third JS challenge from Wes Bos
 
 Link: http://codepen.io/shvvffle/pen/RpRbGO
 
 <hr>
 
 #### Day 63 and 64: March 4 to 5 2017
-###### JAVASCRIPT] Continuation and end of the third JS challenge from Wes Bos
+###### [JAVASCRIPT] Continuation and end of the third JS challenge from Wes Bos
 
 Link: http://codepen.io/shvvffle/pen/RpRbGO
 
 <hr>
 
 #### Day 65: March 6 2017
-###### FRONT-END] Exercises
+###### [FRONT-END] Exercises
 
 <hr>
 
 #### Day 66 to 71: March 12 2017
-###### FRONT-END, JAVASCRIPT, OBJECTIVE-C] Javascript exercises, started learning and practicing Objective-C.
+###### [FRONT-END, JAVASCRIPT, OBJECTIVE-C] Javascript exercises, started learning and practicing Objective-C.
 
 <hr>
 
 #### Day 72: March 13 2017
-###### FRONT-END, JAVASCRIPT] Finished a game with Javascript, mentored by Jonas Schmedtmann.
+###### [FRONT-END, JAVASCRIPT] Finished a game with Javascript, mentored by Jonas Schmedtmann.
 
 Link: https://github.com/shvvffle/pig-game
 
 <hr>
 
 #### Day 73: March 14 2017
-###### OBJECTIVE-C] Contact program for console.
+###### [OBJECTIVE-C] Contact program for console.
 
 <hr>
 
 #### Day 74: March 15 2017
-###### FRONT-END] Sharepoint team page.
+###### [FRONT-END] Sharepoint team page.
 
 <hr>
 
 #### Day 75: March 16 2017
-###### OBJECTIVE-C] Console program that enables the user to create a random item: name, serial number and a price. Methods available are: add/remove new random item, store items in an array and count, calculate total price of all items.
+###### [OBJECTIVE-C] Console program that enables the user to create a random item: name, serial number and a price. Methods available are: add/remove new random item, store items in an array and count, calculate total price of all items.
 
 <hr>
 
 #### Day 76: March 17 2017
-###### OBJECTIVE-C] Objective-C exercises.
+###### [OBJECTIVE-C] Objective-C exercises.
 
 <hr>
 
 #### Day 77: March 18 2017
-###### OBJECTIVE-C] Continuation of console program from day 75.
+###### [OBJECTIVE-C] Continuation of console program from day 75.
 
 <hr>
 
 #### Day 78: March 19 2017
-###### OBJECTIVE-C] Continuation of console program from day 75 and 76.
+###### [OBJECTIVE-C] Continuation of console program from day 75 and 76.
 
 <hr>
 
 #### Day 79: March 20 2017
-###### OBJECTIVE-C] Exercises
+###### [OBJECTIVE-C] Exercises
 
 <hr>
 
 #### Day 80 to 82: March 23 2017
-###### OBJECTIVE-C] Console programs
+###### [OBJECTIVE-C] Console programs
