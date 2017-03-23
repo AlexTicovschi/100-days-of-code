@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 #### Day 1: January 1, 2017
-######## [HTML, CSS, JAVASCRIPT] Todo List
+###### [HTML, CSS, JAVASCRIPT] Todo List
 
 **Today's Progress**: Added CSS and customized some functions.
 
@@ -12,7 +12,7 @@
 <hr>
 
 #### Day 2: January 2, 2017
-######## [HTML, CSS, JAVASCRIPT] Todo List
+###### [HTML, CSS, JAVASCRIPT] Todo List
 
 **Today's Progress**: Trying to add the possibility of caching the user's todolist so when the user refreshes or comes back to the app, his/her todolist is still there.
 
@@ -23,14 +23,14 @@
 <hr>
 
 #### Day 3: January 3, 2017
-######## [JAVA, ANDROID] Activities and layouts
+###### [JAVA, ANDROID] Activities and layouts
 
 **Today's Progress**: Studying activities and layouts.
 
 <hr>
 
 #### Day 4: January 4, 2017
-######## [JAVA, ANDROID] Activities and layouts
+###### [JAVA, ANDROID] Activities and layouts
 
 **Today's Progress**: Created a layout with 4 buttons.
 * Open Activity - opens another screen
@@ -43,14 +43,14 @@
 <hr>
 
 #### Day 5: January 5, 2017
-######## [JAVA, ANDROID] Parcelable interface and Runtime permissions
+###### [JAVA, ANDROID] Parcelable interface and Runtime permissions
 
 **Today's Progress**: Studying Parcelable interface and Runtime permissions: how to make phone calls and allow access
 
 <hr>
 
 #### Day 6: January 6, 2017
-######## [HTML, CSS, JAVASCRIPT] Todo List and Free Code Camp
+###### [HTML, CSS, JAVASCRIPT] Todo List and Free Code Camp
 
 **Today's Progress**: *Still* Trying to add the possibility of caching the user's todolist so when the user refreshes or comes back to the app, his/her todolist is still there. Also, progressing on the HTML5/CSS3 section on FreeCodeCamp.
 
@@ -61,7 +61,7 @@
 <hr>
 
 #### Day 7: January 7, 2017
-######## [HTML, CSS, JAVASCRIPT] Todo List
+###### [HTML, CSS, JAVASCRIPT] Todo List
 
 **Today's Progress**: Finally able to keep the list in memory!! The user can now have his/her todolist in storage/cache. Also managed to correct and clean my code in an effective way.
 
@@ -72,7 +72,7 @@
 <hr>
 
 #### Day 8: January 8, 2017
-######## [JAVA, ANDROID] ListView and Adapters
+###### [JAVA, ANDROID] ListView and Adapters
 
 **Today's Progress**: Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
 
@@ -82,7 +82,7 @@
 
 
 #### Day 9: January 9, 2017
-######## [JAVA, ANDROID] ListView and Adapters
+###### [JAVA, ANDROID] ListView and Adapters
 
 **Today's Progress**: [Continuation] Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
 
@@ -92,7 +92,7 @@
 
 
 #### Day 10: January 10, 2017
-######## [JAVA, ANDROID] ListView and Adapters
+###### [JAVA, ANDROID] ListView and Adapters
 
 **Today's Progress**: [Continuation] Creation of a list with 1000 elements, each element has its position number and a value that can be incremented or decreased based on the control clicked. When a value of the list is changed, there is a method called to refresh the list.
 
