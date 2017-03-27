@@ -489,3 +489,13 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 84: March 25 2017
 ###### [FRONT-END] Profile card - http://codepen.io/shvvffle/pen/Opwbev
+
+<hr>
+
+#### Day 85: March 26 2017
+###### [FRONT-END] Finished Profile card - http://codepen.io/shvvffle/pen/Opwbev
+
+<hr>
+
+#### Day 86: March 27 2017
+###### [FRONT-END] Started twitter profile card
