@@ -504,3 +504,8 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 87: March 28 2017
 ###### [iOS] Small apps for testing
+
+<hr>
+
+#### Day 88: March 29 2017
+###### [FRONT-END] Finished twitter profile card - http://codepen.io/shvvffle/pen/dvgPpd
