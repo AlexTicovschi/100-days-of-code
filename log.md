@@ -488,12 +488,12 @@ Link: https://github.com/shvvffle/pig-game
 <hr>
 
 #### Day 84: March 25 2017
-###### [FRONT-END] Profile card - http://codepen.io/shvvffle/pen/Opwbev
+###### [FRONT-END] Profile card
 
 <hr>
 
 #### Day 85: March 26 2017
-###### [FRONT-END] Finished Profile card - http://codepen.io/shvvffle/pen/Opwbev
+###### [FRONT-END] Finished Profile card
 
 <hr>
 
@@ -524,3 +524,8 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 91: April 1 2017
 ###### [FRONT-END] CSS fixes on various pens.
+
+<hr>
+
+#### Day 92: April 2 2017
+###### [FRONT-END] Space profile based on Dribbble shot: http://codepen.io/shvvffle/pen/Opwbev
