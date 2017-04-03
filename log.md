@@ -529,3 +529,8 @@ Link: https://github.com/shvvffle/pig-game
 
 #### Day 92: April 2 2017
 ###### [FRONT-END] Space profile based on Dribbble shot: http://codepen.io/shvvffle/pen/Opwbev
+
+<hr>
+
+### Day 93: April 3 2017
+###### [iOS] Super study and small exercises
