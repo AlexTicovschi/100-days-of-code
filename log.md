@@ -534,3 +534,8 @@ Link: https://github.com/shvvffle/pig-game
 
 ### Day 93: April 3 2017
 ###### [iOS] Super study and small exercises
+
+<hr>
+
+### Day 94: April 4 2017
+###### [iOS] Small apps for school
