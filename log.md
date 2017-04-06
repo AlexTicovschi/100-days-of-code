@@ -549,4 +549,4 @@ Link: https://github.com/shvvffle/pig-game
 <hr>
 
 ### Day 96: April 6 2017
-###### [iOS] Small apps for school
+###### [iOS] Tab bar app with single views. Map app with 3 map views, zoom in and out, show and hide location
