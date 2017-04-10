@@ -550,3 +550,23 @@ Link: https://github.com/shvvffle/pig-game
 
 ### Day 96: April 6 2017
 ###### [iOS] Tab bar app with single views. Map app with 3 map views, zoom in and out, show and hide location
+
+<hr>
+
+#### Day 97: April 7, 2017
+###### [JAVASCRIPT] Review, small programs
+
+<hr>
+
+#### Day 98: April 8, 2017
+###### [JAVASCRIPT] Review, small programs
+
+<hr>
+
+#### Day 99: April 9, 2017
+###### [JAVASCRIPT] Review, small programs
+
+<hr>
+
+#### Day 100: April 10, 2017
+###### [JAVASCRIPT] Building a RESTful API using Node and Express 4
